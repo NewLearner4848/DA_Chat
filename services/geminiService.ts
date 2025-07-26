@@ -1,6 +1,6 @@
 import { Chat, GoogleGenAI } from "@google/genai";
 
-const API_KEY = "AIzaSyDxMfwW5oV51Hm0lxEMs2Lnda6UP2OSay4";
+const API_KEY = "AIzaSyBKMmroRsmJ4hx30s_33tldMPEstXu8iPQ";
 let ai: GoogleGenAI;
 
 if (API_KEY) {
