@@ -1,0 +1,5 @@
+{
+  "name": "DA Gemini AI Dashboard",
+  "description": "A comprehensive AI dashboard with a Code Assistant, AI Chat, Image Generator, and Prompt Library, all powered by Gemini and secured with Firebase Authentication.",
+  "requestFramePermissions": []
+}
